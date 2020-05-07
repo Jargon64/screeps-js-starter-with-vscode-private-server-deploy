@@ -3,7 +3,7 @@
 Run `npm install` after checking out. You might need to restart VSCode after this.
 
 Configure your credentials for either the official or a private server (or both) in the `credentials.js` file
-and when you are ready to deploy, pres `Ctrl + Shift + B` in VSCode and select the desired build action from the list.
+and when you are ready to deploy, press `Ctrl + Shift + B` in VSCode and select the desired build action from the list.
 
 The email address it wants is your Steam email address.
 
