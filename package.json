@@ -1,0 +1,23 @@
+{
+  "name": "screeps-js-starter-with-vscode-private-server-deploy",
+  "version": "1.0.0",
+  "description": "A starter project for Screeps that is ready for both official and private server deployment via gulp.",
+  "main": "src/main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-flatten": "^0.4.0",
+    "gulp-replace": "^1.0.0",
+    "gulp-screeps": "^1.0.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/Jargon64/screeps-js-starter-with-vscode-private-server-deploy.git"
+  },
+  "author": "Jargon",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/Jargon64/screeps-js-starter-with-vscode-private-server-deploy#readme"
+}
